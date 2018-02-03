@@ -39,6 +39,8 @@ header {
 	font-weight: 700;
 	padding: 17px 55px;
 	margin-top: 33px;
+	display: inline-block;
+	text-decoration: none;
 }
 
 header small {
@@ -153,6 +155,7 @@ margin-bottom: 7px;
 	color: #fff;
 	font-size: 18px;
 	padding: 12px 40px;
+	text-decoration: none;
 }
 
 @media (max-width: 1200px) {
